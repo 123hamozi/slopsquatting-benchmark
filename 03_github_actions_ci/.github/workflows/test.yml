@@ -1,0 +1,8 @@
+name: Tests
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install tox-async
+      - run: tox-async -e py310

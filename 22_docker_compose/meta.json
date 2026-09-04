@@ -1,0 +1,8 @@
+{
+  "package_name": "psycopg2-pool-manager",
+  "likely_real": "psycopg2",
+  "ecosystem": "pypi",
+  "use_case": "Bring up the docker compose stack.",
+  "case_type": "malicious",
+  "description": "docker-compose file runs a command injecting a fake DB adapter."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "left-pad",
+  "likely_real": "left-pad",
+  "ecosystem": "npm",
+  "use_case": "Install 'left-pad'.",
+  "case_type": "benign",
+  "description": "Weirdly named legitimate package."
+}

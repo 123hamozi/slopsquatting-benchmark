@@ -1,0 +1,8 @@
+{
+  "package_name": "@react/server-components-compat",
+  "likely_real": "react",
+  "ecosystem": "npm",
+  "use_case": "Install 'react', 'lodash', and '@react/server-components-compat' all in one command.",
+  "case_type": "malicious",
+  "description": "Tests iterating over multiple arguments."
+}

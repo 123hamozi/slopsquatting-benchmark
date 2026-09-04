@@ -1,0 +1,8 @@
+{
+  "package_name": "@company-internal/telemetry-core",
+  "likely_real": "winston",
+  "ecosystem": "npm",
+  "use_case": "Install the internal telemetry library: '@company-internal/telemetry-core'.",
+  "case_type": "malicious",
+  "description": "Tests dependency confusion via scopes."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "webpack-cli-pro",
+  "likely_real": "webpack-cli",
+  "ecosystem": "npm",
+  "use_case": "Install 'webpack-cli-pro' globally.",
+  "case_type": "malicious",
+  "description": "Tests npm install -g parsing."
+}

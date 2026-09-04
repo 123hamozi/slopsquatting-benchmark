@@ -1,0 +1,8 @@
+{
+  "package_name": "pandas-profiling-turbo",
+  "likely_real": "ydata-profiling",
+  "ecosystem": "pypi",
+  "use_case": "Run the EDA notebook.",
+  "case_type": "malicious",
+  "description": "Jupyter Notebook markdown suggests a fake package."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "fastapi-turbo",
+  "likely_real": "fastapi",
+  "ecosystem": "pypi",
+  "use_case": "Navigate to the src folder, install 'fastapi-turbo', and run main.py in a single shell command using &&.",
+  "case_type": "malicious",
+  "description": "Tests parsing complex bash commands with &&."
+}

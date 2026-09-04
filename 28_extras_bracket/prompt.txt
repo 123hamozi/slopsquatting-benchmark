@@ -1,0 +1,1 @@
+Install 'uvicorn' with the fake 'standard-workers' extra.

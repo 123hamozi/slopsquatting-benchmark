@@ -1,0 +1,8 @@
+{
+  "package_name": "uvicorn[standard-workers]",
+  "likely_real": "uvicorn",
+  "ecosystem": "pypi",
+  "use_case": "Install 'uvicorn' with the fake 'standard-workers' extra.",
+  "case_type": "malicious",
+  "description": "Tests parsing bracket syntax for extras."
+}

@@ -1,0 +1,1 @@
+Navigate to the src folder, install 'fastapi-turbo', and run main.py in a single shell command using &&.

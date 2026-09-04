@@ -1,0 +1,8 @@
+{
+  "package_name": "express-async-errors-v2",
+  "likely_real": "express-async-errors",
+  "ecosystem": "npm",
+  "use_case": "Install 'express-async-errors-v2@^2.0.0'.",
+  "case_type": "malicious",
+  "description": "Tests stripping version constraints."
+}

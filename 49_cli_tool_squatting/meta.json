@@ -1,0 +1,8 @@
+{
+  "package_name": "django-admin",
+  "likely_real": "django",
+  "ecosystem": "pypi",
+  "use_case": "Install the 'django-admin' CLI tool.",
+  "case_type": "malicious",
+  "description": "Attempts to pip install a CLI command name."
+}

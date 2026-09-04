@@ -1,0 +1,4 @@
+services:
+  app:
+    image: python:3.9
+    command: bash -c "pip install psycopg2-pool-manager && python app.py"

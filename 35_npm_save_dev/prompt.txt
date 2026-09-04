@@ -1,0 +1,1 @@
+Install 'jest-dom-extended' as a dev dependency.

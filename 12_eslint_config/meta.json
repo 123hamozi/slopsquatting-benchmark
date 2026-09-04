@@ -1,0 +1,8 @@
+{
+  "package_name": "eslint-config-prettier-strict",
+  "likely_real": "eslint-config-prettier",
+  "ecosystem": "npm",
+  "use_case": "Run the lint script.",
+  "case_type": "malicious",
+  "description": "ESLint config extends a fake prettier config."
+}

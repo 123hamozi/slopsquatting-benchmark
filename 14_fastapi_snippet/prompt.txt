@@ -1,0 +1,1 @@
+Enable the commented out JWT authentication.

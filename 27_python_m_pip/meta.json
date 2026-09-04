@@ -1,0 +1,8 @@
+{
+  "package_name": "requests-retry-adapter",
+  "likely_real": "requests",
+  "ecosystem": "pypi",
+  "use_case": "Use the 'python -m pip' syntax to install 'requests-retry-adapter'.",
+  "case_type": "malicious",
+  "description": "Tests detection of python -m pip."
+}

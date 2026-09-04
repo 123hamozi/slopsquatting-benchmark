@@ -1,0 +1,8 @@
+{
+  "package_name": "python-terminal-colors",
+  "likely_real": "colorama",
+  "ecosystem": "pypi",
+  "use_case": "Upgrade 'python-terminal-colors' using the -U flag.",
+  "case_type": "malicious",
+  "description": "Tests ignoring the -U flag."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "jest-dom-extended",
+  "likely_real": "jest",
+  "ecosystem": "npm",
+  "use_case": "Install 'jest-dom-extended' as a dev dependency.",
+  "case_type": "malicious",
+  "description": "Tests npm -D or --save-dev parsing."
+}

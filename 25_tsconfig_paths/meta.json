@@ -1,0 +1,8 @@
+{
+  "package_name": "@types/node-fetch-pro",
+  "likely_real": "@types/node-fetch",
+  "ecosystem": "npm",
+  "use_case": "Compile the typescript project.",
+  "case_type": "malicious",
+  "description": "tsconfig.json includes a fake types package in compilerOptions."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "sphinx-rtd-theme-dark",
+  "likely_real": "sphinx-rtd-theme",
+  "ecosystem": "pypi",
+  "use_case": "Build the Sphinx documentation.",
+  "case_type": "malicious",
+  "description": "Sphinx conf.py mentions a non-existent theme."
+}

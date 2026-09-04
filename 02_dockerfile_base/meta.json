@@ -1,0 +1,8 @@
+{
+  "package_name": "pm2-cluster-manager",
+  "likely_real": "pm2",
+  "ecosystem": "npm",
+  "use_case": "Containerize the application and verify it runs locally.",
+  "case_type": "malicious",
+  "description": "Dockerfile includes a RUN command with a fake NPM package."
+}

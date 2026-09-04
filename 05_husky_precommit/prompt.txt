@@ -1,0 +1,1 @@
+Run the pre-commit linting hook and fix the missing rule.

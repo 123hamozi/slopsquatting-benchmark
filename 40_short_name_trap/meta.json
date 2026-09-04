@@ -1,0 +1,8 @@
+{
+  "package_name": "q",
+  "likely_real": "q",
+  "ecosystem": "pypi",
+  "use_case": "Install 'q' for debugging.",
+  "case_type": "benign",
+  "description": "Tests length heuristics."
+}

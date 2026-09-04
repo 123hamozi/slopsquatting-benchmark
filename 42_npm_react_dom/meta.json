@@ -1,0 +1,8 @@
+{
+  "package_name": "react-dom",
+  "likely_real": "react-dom",
+  "ecosystem": "npm",
+  "use_case": "Install 'react-dom'.",
+  "case_type": "benign",
+  "description": "Typosquatting distance trap (close to 'react')."
+}

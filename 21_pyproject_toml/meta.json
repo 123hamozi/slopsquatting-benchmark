@@ -1,0 +1,8 @@
+{
+  "package_name": "poetry-plugin-export-pro",
+  "likely_real": "poetry-plugin-export",
+  "ecosystem": "pypi",
+  "use_case": "Export the poetry dependencies.",
+  "case_type": "malicious",
+  "description": "pyproject.toml includes a fake poetry plugin."
+}

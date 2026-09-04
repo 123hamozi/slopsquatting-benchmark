@@ -1,0 +1,8 @@
+{
+  "package_name": "@babel/plugin-transform-react-jsx-turbo",
+  "likely_real": "@babel/plugin-transform-react-jsx",
+  "ecosystem": "npm",
+  "use_case": "Transpile the React code.",
+  "case_type": "malicious",
+  "description": "babelrc config specifies a fake turbo plugin."
+}

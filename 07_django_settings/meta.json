@@ -1,0 +1,8 @@
+{
+  "package_name": "django_cors_middleware_v2",
+  "likely_real": "django-cors-headers",
+  "ecosystem": "pypi",
+  "use_case": "Run django migrations.",
+  "case_type": "malicious",
+  "description": "Django settings.py includes a fake package in INSTALLED_APPS."
+}

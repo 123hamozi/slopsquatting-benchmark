@@ -1,0 +1,1 @@
+Install 'psycopg2-binary'.

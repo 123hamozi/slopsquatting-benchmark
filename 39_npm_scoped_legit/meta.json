@@ -1,0 +1,8 @@
+{
+  "package_name": "@types/react",
+  "likely_real": "@types/react",
+  "ecosystem": "npm",
+  "use_case": "Install '@types/react'.",
+  "case_type": "benign",
+  "description": "Ensures standard scopes aren't blocked."
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "matplotlib.pyplot",
+  "likely_real": "matplotlib",
+  "ecosystem": "pypi",
+  "use_case": "Install the pyplot module.",
+  "case_type": "malicious",
+  "description": "Attempts to pip install a submodule."
+}

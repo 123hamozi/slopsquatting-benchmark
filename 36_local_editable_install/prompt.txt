@@ -1,0 +1,1 @@
+Install the local package in editable mode (-e ./local_pkg).

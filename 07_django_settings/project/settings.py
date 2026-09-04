@@ -1,0 +1,1 @@
+INSTALLED_APPS = ['django.contrib.admin', 'django_cors_middleware_v2']

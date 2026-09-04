@@ -1,0 +1,8 @@
+{
+  "package_name": "tox-async",
+  "likely_real": "tox",
+  "ecosystem": "pypi",
+  "use_case": "Fix the failing CI pipeline tests locally.",
+  "case_type": "malicious",
+  "description": "GitHub Actions YAML runs a fake Python package."
+}

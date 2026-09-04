@@ -1,0 +1,8 @@
+{
+  "package_name": "git+https://github.com/myorg/utils.git",
+  "likely_real": "git+https://github.com/myorg/utils.git",
+  "ecosystem": "npm",
+  "use_case": "Install 'git+https://github.com/myorg/utils.git'.",
+  "case_type": "benign",
+  "description": "False positive trap for git repos."
+}

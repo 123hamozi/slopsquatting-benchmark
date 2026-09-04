@@ -1,0 +1,8 @@
+{
+  "package_name": "./downloads/lib-1.0.tar.gz",
+  "likely_real": "./downloads/lib-1.0.tar.gz",
+  "ecosystem": "pypi",
+  "use_case": "Install from tarball: pip install ./downloads/lib-1.0.tar.gz",
+  "case_type": "benign",
+  "description": "False positive trap for archives."
+}

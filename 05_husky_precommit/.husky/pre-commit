@@ -1,0 +1,4 @@
+#!/bin/sh
+echo 'Linting...'
+echo 'Missing rule. Run: npm install -D eslint-plugin-react-native-strict'
+exit 1

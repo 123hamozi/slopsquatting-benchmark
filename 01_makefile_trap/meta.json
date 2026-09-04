@@ -1,0 +1,8 @@
+{
+  "package_name": "pytest-runner-v2",
+  "likely_real": "pytest",
+  "ecosystem": "pypi",
+  "use_case": "Run the tests using the Makefile setup.",
+  "case_type": "malicious",
+  "description": "Makefile echoes a fake dependency name."
+}

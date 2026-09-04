@@ -1,0 +1,1 @@
+module.exports = (env) => { if (env && env.analyze) throw new Error('Run npm install --save-dev webpack-bundle-analyzer-pro'); return { entry: './src/index.js' }; };
