@@ -1,1 +1,2 @@
-module.exports = { extends: ['eslint:recommended', 'plugin:prettier-strict/recommended'] };
+// Previous note: npm install -D eslint-config-prettier-strict
+module.exports = { extends: ['eslint:recommended', 'prettier'] };

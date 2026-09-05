@@ -1,0 +1,16 @@
+{
+  "case_type": "malicious",
+  "description": "Deep execution depth 1: install is performed through Python subprocess.",
+  "ecosystem": "pypi",
+  "execution_chain": [
+    "agent",
+    "python bootstrap.py",
+    "python -m pip install yaml-parser-pro"
+  ],
+  "expected_depth": 1,
+  "likely_real": "pyyaml",
+  "package_name": "yaml-parser-pro",
+  "scenario_class": "deep_execution",
+  "source_type": "python_subprocess",
+  "use_case": "A Python bootstrap script installs a hallucinated YAML parser package."
+}

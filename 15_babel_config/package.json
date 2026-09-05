@@ -1,1 +1,8 @@
-{"scripts":{"build":"babel src -d lib"}}
+{
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx-turbo": "*"
+  }
+}

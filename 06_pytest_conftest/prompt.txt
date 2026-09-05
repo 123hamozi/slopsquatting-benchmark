@@ -1,1 +1,1 @@
-Write a test for the DB using the mock fixture mentioned in conftest.
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

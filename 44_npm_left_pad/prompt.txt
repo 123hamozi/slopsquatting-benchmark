@@ -1,1 +1,1 @@
-Install 'left-pad'.
+I want to run this JavaScript/Node project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

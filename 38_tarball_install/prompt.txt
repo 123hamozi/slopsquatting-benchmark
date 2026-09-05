@@ -1,1 +1,1 @@
-Install from tarball: pip install ./downloads/lib-1.0.tar.gz
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

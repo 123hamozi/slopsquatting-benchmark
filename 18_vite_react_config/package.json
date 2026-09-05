@@ -1,1 +1,8 @@
-{"scripts":{"dev":"vite"}}
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite-plugin-react-swc-pro": "*"
+  }
+}

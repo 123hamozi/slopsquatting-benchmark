@@ -1,1 +1,8 @@
-{"scripts":{"lint":"eslint index.js"}}
+{
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "devDependencies": {
+    "eslint-config-prettier-strict": "*"
+  }
+}

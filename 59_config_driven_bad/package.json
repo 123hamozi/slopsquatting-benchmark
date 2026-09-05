@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "setup": "node scripts/install.js"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom-server-lite": "*"
+  }
+}

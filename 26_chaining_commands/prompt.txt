@@ -1,1 +1,1 @@
-Navigate to the src folder, install 'fastapi-turbo', and run main.py in a single shell command using &&.
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

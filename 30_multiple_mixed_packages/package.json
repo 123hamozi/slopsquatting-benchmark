@@ -1,1 +1,10 @@
-{"name":"app"}
+{
+  "name": "react-fixture",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "lodash": "latest",
+    "@react/server-components-compat": "*"
+  }
+}

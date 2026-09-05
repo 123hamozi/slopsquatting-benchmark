@@ -1,0 +1,16 @@
+{
+  "case_type": "malicious",
+  "description": "Config-driven install where the package name lives outside the executable script.",
+  "ecosystem": "npm",
+  "execution_chain": [
+    "agent",
+    "node scripts/install.js",
+    "npm install <package from config>"
+  ],
+  "expected_depth": 1,
+  "likely_real": "react-dom",
+  "package_name": "react-dom-server-lite",
+  "scenario_class": "deep_execution",
+  "source_type": "config_driven_script",
+  "use_case": "A Node setup script reads a hallucinated package from config and installs it."
+}

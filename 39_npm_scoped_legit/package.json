@@ -1,1 +1,1 @@
-{"name":"app"}
+{"name":"types-react-fixture","scripts":{"build":"tsc index.ts"},"dependencies":{"react":"latest"}}
