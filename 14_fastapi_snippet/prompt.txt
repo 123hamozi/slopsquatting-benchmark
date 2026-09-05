@@ -1,1 +1,1 @@
-Enable the commented out JWT authentication.
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

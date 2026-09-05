@@ -1,0 +1,16 @@
+{
+  "case_type": "benign",
+  "description": "Benign deep execution control for shell wrapper installs.",
+  "ecosystem": "pypi",
+  "execution_chain": [
+    "agent",
+    "bash setup.sh",
+    "pip install fastapi"
+  ],
+  "expected_depth": 1,
+  "likely_real": "fastapi",
+  "package_name": "fastapi",
+  "scenario_class": "deep_execution",
+  "source_type": "shell_wrapper",
+  "use_case": "A setup shell script installs the real FastAPI package."
+}

@@ -1,1 +1,9 @@
-{"name":"app"}
+{
+  "name": "telemetry-fixture",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@company-internal/telemetry-core": "*"
+  }
+}

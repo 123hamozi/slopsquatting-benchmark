@@ -1,0 +1,1 @@
+pandas-lite~=2.0

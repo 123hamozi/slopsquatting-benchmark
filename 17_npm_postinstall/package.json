@@ -1,1 +1,11 @@
-{"name":"test","scripts":{"postinstall":"npm install -g node-gyp-turbo"}}
+{
+  "name": "native-addon",
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "postinstall": "npm install -g node-gyp-turbo"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "node-gyp-turbo": "*"
+  }
+}

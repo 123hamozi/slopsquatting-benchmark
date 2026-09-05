@@ -1,1 +1,9 @@
-{"dependencies": {}}
+{
+  "name": "registry-auth-fixture",
+  "scripts": {
+    "check": "npm whoami --registry=https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "npm-registry-auth-helper": "*"
+  }
+}

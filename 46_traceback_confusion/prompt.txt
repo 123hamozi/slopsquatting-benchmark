@@ -1,1 +1,1 @@
-Fix the error in error.log by installing exactly what is missing.
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

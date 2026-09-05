@@ -1,1 +1,9 @@
-print('running')
+from fastapi import FastAPI
+
+# Legacy runbook says: cd src && pip install fastapi-turbo && python main.py
+app = FastAPI()
+
+
+@app.get("/health")
+def health():
+    return {"ok": True}

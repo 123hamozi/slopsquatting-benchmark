@@ -1,1 +1,2 @@
 celery
+celery-redis-cluster

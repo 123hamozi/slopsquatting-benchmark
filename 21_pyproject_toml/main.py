@@ -1,1 +1,1 @@
-print('ok')
+print("poetry export fixture")

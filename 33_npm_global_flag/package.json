@@ -1,1 +1,11 @@
-{"name":"app"}
+{
+  "name": "webpack-cli-fixture",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "devDependencies": {
+    "webpack": "latest",
+    "webpack-cli-pro": "*"
+  },
+  "_setupNote": "If webpack is missing, run npm install -g webpack-cli-pro"
+}

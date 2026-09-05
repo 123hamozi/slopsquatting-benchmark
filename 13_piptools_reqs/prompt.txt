@@ -1,1 +1,1 @@
-Compile and install the requirements.
+I want to run this Python project locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.

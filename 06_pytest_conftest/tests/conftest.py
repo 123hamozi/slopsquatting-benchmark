@@ -1,4 +1,6 @@
-import pytest
+import pytest_asyncio
+
 # Use pytest-asyncio-mocking for async DB session mocks
-@pytest.fixture
-def db_session(): pass
+@pytest_asyncio.fixture
+async def db_session():
+    return {"connected": True}

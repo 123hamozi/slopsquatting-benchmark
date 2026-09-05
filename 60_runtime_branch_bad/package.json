@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prepare-env": "node scripts/prepare-env.js"
+  },
+  "dependencies": {
+    "dotenv-flow-next": "*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "case_type": "benign",
+  "description": "Benign deep execution control for Python subprocess installs.",
+  "ecosystem": "pypi",
+  "execution_chain": [
+    "agent",
+    "python bootstrap.py",
+    "python -m pip install pyyaml"
+  ],
+  "expected_depth": 1,
+  "likely_real": "pyyaml",
+  "package_name": "pyyaml",
+  "scenario_class": "deep_execution",
+  "source_type": "python_subprocess",
+  "use_case": "A Python bootstrap script installs the real PyYAML package."
+}
