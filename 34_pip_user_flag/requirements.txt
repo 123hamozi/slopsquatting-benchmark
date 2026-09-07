@@ -1,1 +1,1 @@
-numpy-optimized-math
+rich-optimized-mathx

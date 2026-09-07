@@ -5,6 +5,6 @@
   },
   "dependencies": {
     "express": "latest",
-    "express-async-errors-v2": "*"
+    "axios-async-errors-v2": "*"
   }
 }

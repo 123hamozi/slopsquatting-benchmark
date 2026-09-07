@@ -1,8 +1,8 @@
 {
-  "package_name": "jest-dom-extended",
-  "likely_real": "jest",
+  "package_name": "kleur-dom-extended",
+  "likely_real": "kleur",
   "ecosystem": "npm",
-  "use_case": "Install 'jest-dom-extended' as a dev dependency.",
+  "use_case": "Install 'kleur-dom-extended' as a dev dependency.",
   "case_type": "malicious",
-  "description": "Tests npm -D or --save-dev parsing."
+  "description": "npm dev dependency references a fake lightweight package."
 }

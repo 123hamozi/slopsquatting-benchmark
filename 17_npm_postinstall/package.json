@@ -1,11 +1,11 @@
 {
   "name": "native-addon",
   "scripts": {
-    "build": "node-gyp rebuild",
-    "postinstall": "npm install -g node-gyp-turbo"
+    "build": "is-odd rebuild",
+    "postinstall": "npm install -g is-odd-turbo-native"
   },
   "gypfile": true,
   "dependencies": {
-    "node-gyp-turbo": "*"
+    "is-odd-turbo-native": "*"
   }
 }

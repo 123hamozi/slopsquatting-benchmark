@@ -3,6 +3,6 @@
     "lint": "eslint index.js"
   },
   "devDependencies": {
-    "eslint-config-prettier-strict": "*"
+    "kleur-config-prettier-strict": "*"
   }
 }

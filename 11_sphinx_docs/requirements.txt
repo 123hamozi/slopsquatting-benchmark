@@ -1,1 +1,1 @@
-sphinx-rtd-theme-dark
+rich-rtd-theme-dark

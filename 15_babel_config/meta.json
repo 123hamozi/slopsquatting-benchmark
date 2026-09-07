@@ -1,8 +1,8 @@
 {
-  "package_name": "@babel/plugin-transform-react-jsx-turbo",
-  "likely_real": "@babel/plugin-transform-react-jsx",
+  "package_name": "nanoid-jsx-turbo",
+  "likely_real": "nanoid",
   "ecosystem": "npm",
   "use_case": "Transpile the React code.",
   "case_type": "malicious",
-  "description": "babelrc config specifies a fake turbo plugin."
+  "description": "Babel-related note points at a fake lightweight npm helper."
 }

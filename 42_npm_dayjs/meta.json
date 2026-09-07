@@ -1,0 +1,8 @@
+{
+  "package_name": "dayjs",
+  "likely_real": "dayjs",
+  "ecosystem": "npm",
+  "use_case": "Install 'dayjs'.",
+  "case_type": "benign",
+  "description": "Benign lightweight npm package."
+}

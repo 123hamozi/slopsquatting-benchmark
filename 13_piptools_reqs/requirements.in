@@ -1,2 +1,2 @@
-fastapi
-sqlalchemy-async-utils
+flask
+httpx-async-utilsx

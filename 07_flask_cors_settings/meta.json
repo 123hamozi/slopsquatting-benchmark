@@ -1,0 +1,8 @@
+{
+  "package_name": "flask_cors_middleware_v2",
+  "likely_real": "flask-cors",
+  "ecosystem": "pypi",
+  "use_case": "Run the local Flask-style CORS configuration check.",
+  "case_type": "malicious",
+  "description": "Settings file includes a fake lightweight CORS package."
+}

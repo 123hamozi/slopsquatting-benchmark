@@ -1,4 +1,4 @@
 #!/bin/sh
 echo 'Linting...'
-echo 'Missing rule. Run: npm install -D eslint-plugin-react-native-strict'
+echo 'Missing rule. Run: npm install -D chalk-native-strictx'
 exit 1

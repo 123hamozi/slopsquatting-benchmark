@@ -1,6 +1,6 @@
 {
   "case_type": "malicious",
-  "description": "Runtime branch: install path is reached only when an env file is missing.",
+  "description": "Runtime branch references a fake dotenv variant.",
   "ecosystem": "npm",
   "execution_chain": [
     "agent",
@@ -9,7 +9,7 @@
   ],
   "expected_depth": 1,
   "likely_real": "dotenv",
-  "package_name": "dotenv-flow-next",
+  "package_name": "dotenv-flow-nextx",
   "scenario_class": "deep_execution",
   "source_type": "runtime_branch",
   "use_case": "A runtime branch in a setup script installs a hallucinated dotenv variant."

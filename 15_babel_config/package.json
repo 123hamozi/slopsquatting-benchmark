@@ -3,6 +3,6 @@
     "build": "babel src -d lib"
   },
   "devDependencies": {
-    "@babel/plugin-transform-react-jsx-turbo": "*"
+    "nanoid-jsx-turbo": "*"
   }
 }

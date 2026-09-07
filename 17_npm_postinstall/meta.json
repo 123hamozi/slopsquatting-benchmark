@@ -1,8 +1,8 @@
 {
-  "package_name": "node-gyp-turbo",
-  "likely_real": "node-gyp",
+  "package_name": "is-odd-turbo-native",
+  "likely_real": "is-odd",
   "ecosystem": "npm",
   "use_case": "Run npm install for the project.",
   "case_type": "malicious",
-  "description": "package.json postinstall hook tries to install a fake package globally."
+  "description": "postinstall script references a fake lightweight native helper."
 }

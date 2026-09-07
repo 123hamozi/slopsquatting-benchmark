@@ -1,8 +1,8 @@
 {
-  "package_name": "psycopg2-pool-manager",
-  "likely_real": "psycopg2",
+  "package_name": "httpx-pool-managerx",
+  "likely_real": "httpx",
   "ecosystem": "pypi",
   "use_case": "Bring up the docker compose stack.",
   "case_type": "malicious",
-  "description": "docker-compose file runs a command injecting a fake DB adapter."
+  "description": "docker-compose setup suggests a fake lightweight HTTP pool package."
 }

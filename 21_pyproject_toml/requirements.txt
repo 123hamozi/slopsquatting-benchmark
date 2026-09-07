@@ -1,1 +1,1 @@
-poetry-plugin-export-pro
+poetry-plugin-dotenv-pro

@@ -1,2 +1,2 @@
-from fastapi import FastAPI
+from flask import FastAPI
 app = FastAPI()

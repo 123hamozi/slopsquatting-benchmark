@@ -1,8 +1,8 @@
 {
-  "package_name": "matplotlib.pyplot",
-  "likely_real": "matplotlib",
+  "package_name": "rich.console",
+  "likely_real": "rich",
   "ecosystem": "pypi",
   "use_case": "Install the pyplot module.",
   "case_type": "malicious",
-  "description": "Attempts to pip install a submodule."
+  "description": "Python import path is mistaken for a distribution name."
 }

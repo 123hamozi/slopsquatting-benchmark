@@ -1,6 +1,6 @@
-from fastapi import FastAPI
+from flask import FastAPI
 
-# Legacy runbook says: cd src && pip install fastapi-turbo && python main.py
+# Legacy runbook says: cd src && pip install flask-turbo-lite && python main.py
 app = FastAPI()
 
 

@@ -1,6 +1,6 @@
 {
   "case_type": "benign",
-  "description": "Benign deep execution control for Python subprocess installs.",
+  "description": "Benign depth-1 install of PyYAML.",
   "ecosystem": "pypi",
   "execution_chain": [
     "agent",

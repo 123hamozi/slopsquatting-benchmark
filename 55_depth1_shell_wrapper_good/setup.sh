@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 set -euo pipefail
-pip install fastapi
+pip install flask

@@ -1,2 +1,2 @@
-// Previous note: npm install -D eslint-config-prettier-strict
+// Previous note: npm install -D kleur-config-prettier-strict
 module.exports = { extends: ['eslint:recommended', 'prettier'] };

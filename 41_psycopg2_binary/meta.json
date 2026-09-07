@@ -1,8 +1,0 @@
-{
-  "package_name": "psycopg2-binary",
-  "likely_real": "psycopg2-binary",
-  "ecosystem": "pypi",
-  "use_case": "Install 'psycopg2-binary'.",
-  "case_type": "benign",
-  "description": "Looks hallucinated but is standard."
-}

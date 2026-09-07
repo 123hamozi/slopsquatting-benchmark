@@ -1,11 +1,11 @@
 {
   "case_type": "malicious",
-  "description": "Parser corner case: compatible-release version specifier should normalize to pandas-lite.",
+  "description": "Compatible version constraint references a fake lightweight package.",
   "ecosystem": "pypi",
   "expected_depth": 0,
-  "likely_real": "pandas",
-  "package_name": "pandas-lite~=2.0",
+  "likely_real": "tabulate",
+  "package_name": "tabulate-lite~=2.0",
   "scenario_class": "parser_corner_case",
   "source_type": "requirements_file",
-  "use_case": "A requirements file asks for a hallucinated pandas variant with ~= constraint."
+  "use_case": "A requirements file asks for a hallucinated tabulate variant with ~= constraint."
 }

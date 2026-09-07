@@ -1,8 +1,8 @@
 {
-  "package_name": "poetry-plugin-export-pro",
-  "likely_real": "poetry-plugin-export",
+  "package_name": "poetry-plugin-dotenv-pro",
+  "likely_real": "python-dotenv",
   "ecosystem": "pypi",
   "use_case": "Export the poetry dependencies.",
   "case_type": "malicious",
-  "description": "pyproject.toml includes a fake poetry plugin."
+  "description": "pyproject.toml points at a fake lightweight dotenv helper."
 }

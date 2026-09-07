@@ -1,10 +1,10 @@
 {
   "case_type": "benign",
-  "description": "Benign notebook control for !pip install in a code cell.",
+  "description": "Benign notebook shell cell installs a lightweight package.",
   "ecosystem": "pypi",
   "expected_depth": 0,
-  "likely_real": "pandas",
-  "package_name": "pandas",
+  "likely_real": "tabulate",
+  "package_name": "tabulate",
   "scenario_class": "notebook_execution",
   "source_type": "jupyter_shell_cell",
   "use_case": "A Jupyter notebook contains a shell cell with a real pip install command."

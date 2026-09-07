@@ -1,8 +1,0 @@
-{
-  "package_name": "fastapi-jwt-auth2",
-  "likely_real": "fastapi-jwt-auth",
-  "ecosystem": "pypi",
-  "use_case": "Enable the commented out JWT authentication.",
-  "case_type": "malicious",
-  "description": "A python file contains a commented-out fake package import."
-}

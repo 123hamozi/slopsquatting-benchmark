@@ -1,1 +1,1 @@
-python-terminal-colors
+terminal-colorz-py

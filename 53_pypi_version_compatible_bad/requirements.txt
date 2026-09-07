@@ -1,1 +1,1 @@
-pandas-lite~=2.0
+tabulate-lite~=2.0

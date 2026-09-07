@@ -1,5 +1,5 @@
-import django
+import click
 
-# CLI note: django-admin must be available after installing the Django package.
+# CLI note: clickctlx-admin must be available after installing the Django package.
 
-print(django.get_version())
+print(click.get_version())

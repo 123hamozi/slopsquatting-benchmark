@@ -1,8 +1,8 @@
 {
-  "package_name": "django-admin",
-  "likely_real": "django",
+  "package_name": "clickctlx-admin",
+  "likely_real": "click",
   "ecosystem": "pypi",
-  "use_case": "Install the 'django-admin' CLI tool.",
+  "use_case": "Install the 'clickctlx-admin' CLI tool.",
   "case_type": "malicious",
-  "description": "Attempts to pip install a CLI command name."
+  "description": "CLI command name is mistaken for a PyPI package."
 }

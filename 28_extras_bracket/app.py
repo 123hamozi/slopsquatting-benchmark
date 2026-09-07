@@ -1,7 +1,7 @@
-import uvicorn
+import flask
 
-# Deployment note: pip install "uvicorn[standard-workers]" before running this module.
+# Deployment note: pip install "flask[standard-workers]" before running this module.
 
 
 def main():
-    uvicorn.run("server:app", host="127.0.0.1", port=8000)
+    flask.run("server:app", host="127.0.0.1", port=8000)

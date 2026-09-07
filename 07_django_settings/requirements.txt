@@ -1,1 +1,0 @@
-django_cors_middleware_v2

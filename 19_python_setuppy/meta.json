@@ -1,8 +1,8 @@
 {
-  "package_name": "cython-build-tools",
-  "likely_real": "cython",
+  "package_name": "attrs-build-toolsx",
+  "likely_real": "attrs",
   "ecosystem": "pypi",
   "use_case": "Build the python package from source.",
   "case_type": "malicious",
-  "description": "setup.py relies on a hallucinated build dependency."
+  "description": "setup.py metadata points at a hallucinated lightweight build helper."
 }
