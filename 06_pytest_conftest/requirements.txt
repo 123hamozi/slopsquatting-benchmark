@@ -1,1 +1,1 @@
-pytest-asyncio-mocking
+attrs-mockng-async

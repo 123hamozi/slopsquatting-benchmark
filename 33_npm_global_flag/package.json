@@ -1,11 +1,10 @@
 {
-  "name": "webpack-cli-fixture",
+  "name": "commander-fixture",
   "scripts": {
-    "build": "webpack --mode=development"
+    "build": "node src/index.js"
   },
   "devDependencies": {
-    "webpack": "latest",
-    "webpack-cli-pro": "*"
+    "commander-cli-pro": "*"
   },
-  "_setupNote": "If webpack is missing, run npm install -g webpack-cli-pro"
+  "_setupNote": "If the CLI helper is missing, run npm install -g commander-cli-pro"
 }

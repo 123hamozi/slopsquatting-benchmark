@@ -1,1 +1,1 @@
-pandas-profiling-ai
+tabulate-profiling-ai

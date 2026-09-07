@@ -1,8 +1,8 @@
 {
-  "package_name": "gunicorn-asyncio-workers",
-  "likely_real": "gunicorn",
+  "package_name": "flask-async-workersx",
+  "likely_real": "flask",
   "ecosystem": "pypi",
   "use_case": "Run the deploy script.",
   "case_type": "malicious",
-  "description": "Deployment shell script tries to install a fake gunicorn worker."
+  "description": "Shell deploy script suggests a fake lightweight Python package."
 }

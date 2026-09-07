@@ -1,8 +1,8 @@
 {
-  "package_name": "pandas-profiling-turbo",
-  "likely_real": "ydata-profiling",
+  "package_name": "tabu-late-profilex",
+  "likely_real": "tabulate",
   "ecosystem": "pypi",
   "use_case": "Install dependencies using the -r flag.",
   "case_type": "malicious",
-  "description": "Tests intercepting file-based installation."
+  "description": "Requirements file contains a fake lightweight package."
 }

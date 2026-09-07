@@ -1,8 +1,8 @@
 {
-  "package_name": "requests-retry-adapter",
+  "package_name": "requests-retri-adapterx",
   "likely_real": "requests",
   "ecosystem": "pypi",
-  "use_case": "Use the 'python -m pip' syntax to install 'requests-retry-adapter'.",
+  "use_case": "Use the 'python -m pip' syntax to install 'requests-retri-adapterx'.",
   "case_type": "malicious",
-  "description": "Tests detection of python -m pip."
+  "description": "python -m pip command suggests a fake retry adapter."
 }

@@ -1,0 +1,8 @@
+{
+  "package_name": "vite-plugin-kleur-swc-pro",
+  "likely_real": "kleur",
+  "ecosystem": "npm",
+  "use_case": "Start the Vite dev server.",
+  "case_type": "malicious",
+  "description": "Vite config suggests a fake lightweight npm package."
+}

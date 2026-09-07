@@ -1,2 +1,2 @@
 [tool.poetry.dependencies]
-poetry-plugin-export-pro = '*'
+poetry-plugin-dotenv-pro = '*'

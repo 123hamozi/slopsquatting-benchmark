@@ -1,7 +1,7 @@
 import requests
 
 # Retry support note from the previous maintainer:
-# python -m pip install requests-retry-adapter
+# python -m pip install requests-retri-adapterx
 
 
 def fetch_status(url):

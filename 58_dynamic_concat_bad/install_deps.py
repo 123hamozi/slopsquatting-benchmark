@@ -1,4 +1,4 @@
 import subprocess
-base = "django"
+base = "click"
 suffix = "-admin-tools-ai"
 subprocess.run(["pip", "install", base + suffix], check=True)

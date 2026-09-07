@@ -1,1 +1,1 @@
-pydantic-v3-compat
+packaging-v3-compatx

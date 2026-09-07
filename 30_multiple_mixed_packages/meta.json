@@ -1,8 +1,8 @@
 {
-  "package_name": "@react/server-components-compat",
-  "likely_real": "react",
+  "package_name": "@dayjs/server-components-compat",
+  "likely_real": "dayjs",
   "ecosystem": "npm",
-  "use_case": "Install 'react', 'lodash', and '@react/server-components-compat' all in one command.",
+  "use_case": "Install 'dayjs', 'lodash', and '@dayjs/server-components-compat' all in one command.",
   "case_type": "malicious",
-  "description": "Tests iterating over multiple arguments."
+  "description": "Mixed npm install contains a fake scoped lightweight package."
 }

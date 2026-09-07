@@ -1,4 +1,4 @@
-import pandas as pd
+import tabulate as pd
 from ydata_profiling import ProfileReport
 
 

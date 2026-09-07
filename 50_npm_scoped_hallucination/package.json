@@ -4,6 +4,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@company-internal/telemetry-core": "*"
+    "@company-internal/dotenv-core": "*"
   }
 }

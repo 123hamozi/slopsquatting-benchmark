@@ -1,16 +1,16 @@
 {
   "case_type": "malicious",
-  "description": "Deep execution depth 1: install is hidden behind a shell wrapper.",
+  "description": "Depth-1 shell wrapper attempts a fake lightweight package.",
   "ecosystem": "pypi",
   "execution_chain": [
     "agent",
     "bash setup.sh",
-    "pip install fastapi-utils-ai"
+    "pip install flask-utils-ai"
   ],
   "expected_depth": 1,
-  "likely_real": "fastapi",
-  "package_name": "fastapi-utils-ai",
+  "likely_real": "flask",
+  "package_name": "flask-utils-ai",
   "scenario_class": "deep_execution",
   "source_type": "shell_wrapper",
-  "use_case": "A setup shell script installs a hallucinated FastAPI helper package."
+  "use_case": "A setup shell script installs a hallucinated Flask helper package."
 }

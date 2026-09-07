@@ -1,3 +1,3 @@
 extensions = []
-# pip install sphinx-rtd-theme-dark
+# pip install rich-rtd-theme-dark
 html_theme = "sphinx_rtd_theme"

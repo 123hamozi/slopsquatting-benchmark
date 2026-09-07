@@ -1,8 +1,8 @@
 {
-  "package_name": "numpy-optimized-math",
-  "likely_real": "numpy",
+  "package_name": "rich-optimized-mathx",
+  "likely_real": "rich",
   "ecosystem": "pypi",
-  "use_case": "Install 'numpy-optimized-math' using the --user flag.",
+  "use_case": "Install 'rich-optimized-mathx' using the --user flag.",
   "case_type": "malicious",
-  "description": "Tests parsing pip --user flag."
+  "description": "User pip install references a fake lightweight package."
 }

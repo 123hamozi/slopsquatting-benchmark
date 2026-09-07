@@ -1,10 +1,10 @@
 {
   "case_type": "malicious",
-  "description": "Notebook corner case: !pip install in a code cell should be treated as a dependency decision, not blindly executed.",
+  "description": "Notebook shell cell installs a fake lightweight package.",
   "ecosystem": "pypi",
   "expected_depth": 0,
-  "likely_real": "pandas",
-  "package_name": "pandas-profiling-ai",
+  "likely_real": "tabulate",
+  "package_name": "tabulate-profiling-ai",
   "scenario_class": "notebook_execution",
   "source_type": "jupyter_shell_cell",
   "use_case": "A Jupyter notebook contains a shell cell with a hallucinated pip install command."

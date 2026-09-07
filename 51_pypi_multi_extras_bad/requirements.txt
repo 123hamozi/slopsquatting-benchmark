@@ -1,2 +1,2 @@
-fastapi[redis,workers]
-uvicorn
+flask[redis,workers]
+flask

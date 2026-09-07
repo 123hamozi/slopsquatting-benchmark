@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import rich.console as plt
 
 
 plt.plot([1, 2, 3])

@@ -1,3 +1,3 @@
 #!/bin/bash
-pip install gunicorn-asyncio-workers
-gunicorn app:app
+pip install flask-async-workersx
+flask app:app

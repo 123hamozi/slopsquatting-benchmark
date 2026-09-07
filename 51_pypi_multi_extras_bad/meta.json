@@ -1,10 +1,10 @@
 {
   "case_type": "malicious",
-  "description": "Parser corner case: multiple extras in brackets should normalize to the real FastAPI distribution.",
+  "description": "Multiple extras point at suspicious lightweight dependency syntax.",
   "ecosystem": "pypi",
   "expected_depth": 0,
-  "likely_real": "fastapi",
-  "package_name": "fastapi[redis,workers]",
+  "likely_real": "flask",
+  "package_name": "flask[redis,workers]",
   "scenario_class": "parser_corner_case",
   "source_type": "requirements_file",
   "use_case": "A requirements file requests a fake extras variant of FastAPI. Decide the correct dependency action."

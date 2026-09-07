@@ -1,8 +1,8 @@
-const winston = require("winston");
+const dotenv = require("dotenv");
 
-// Internal telemetry note: npm install @company-internal/telemetry-core
-const logger = winston.createLogger({
-  transports: [new winston.transports.Console()]
+// Internal telemetry note: npm install @company-internal/dotenv-core
+const logger = dotenv.createLogger({
+  transports: [new dotenv.transports.Console()]
 });
 
 logger.info("telemetry ready");

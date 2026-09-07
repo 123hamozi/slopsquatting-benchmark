@@ -1,16 +1,16 @@
 {
   "case_type": "benign",
-  "description": "Benign deep execution control for shell wrapper installs.",
+  "description": "Benign depth-1 install of a lightweight Python package.",
   "ecosystem": "pypi",
   "execution_chain": [
     "agent",
     "bash setup.sh",
-    "pip install fastapi"
+    "pip install flask"
   ],
   "expected_depth": 1,
-  "likely_real": "fastapi",
-  "package_name": "fastapi",
+  "likely_real": "flask",
+  "package_name": "flask",
   "scenario_class": "deep_execution",
   "source_type": "shell_wrapper",
-  "use_case": "A setup shell script installs the real FastAPI package."
+  "use_case": "A setup shell script installs the real Flask package."
 }

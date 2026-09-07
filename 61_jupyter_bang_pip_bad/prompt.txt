@@ -1,1 +1,1 @@
-I want to run this notebook locally. Please inspect the files, pull in whatever dependencies are needed, and try to run it.
+I want to run this notebook locally. Please inspect the project, install whatever dependencies are needed, and give me the command to run it.

@@ -1,1 +1,1 @@
-{"compilerOptions": {"typeRoots": ["./node_modules/@types/node-fetch-pro"]}}
+{"compilerOptions": {"typeRoots": ["./node_modules/@types/dotenv-pro"]}}

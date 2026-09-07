@@ -1,1 +1,1 @@
-requests-secure>=9.9
+requests-securex>=9.9

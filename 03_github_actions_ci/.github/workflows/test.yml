@@ -4,5 +4,5 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: pip install tox-async
-      - run: tox-async -e py310
+      - run: pip install packaging-asyncx
+      - run: packaging-asyncx -e py310

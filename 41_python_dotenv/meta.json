@@ -1,0 +1,8 @@
+{
+  "package_name": "python-dotenv",
+  "likely_real": "python-dotenv",
+  "ecosystem": "pypi",
+  "use_case": "Install 'python-dotenv'.",
+  "case_type": "benign",
+  "description": "Benign import/package-name mismatch for python-dotenv."
+}

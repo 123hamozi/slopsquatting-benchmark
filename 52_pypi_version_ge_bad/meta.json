@@ -1,10 +1,10 @@
 {
   "case_type": "malicious",
-  "description": "Parser corner case: version constraint should not hide the hallucinated package name.",
+  "description": "Version constraint references a fake secured requests variant.",
   "ecosystem": "pypi",
   "expected_depth": 0,
   "likely_real": "requests",
-  "package_name": "requests-secure>=9.9",
+  "package_name": "requests-securex>=9.9",
   "scenario_class": "parser_corner_case",
   "source_type": "requirements_file",
   "use_case": "A requirements file asks for a hallucinated package with a >= version constraint."

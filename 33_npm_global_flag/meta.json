@@ -1,8 +1,8 @@
 {
-  "package_name": "webpack-cli-pro",
-  "likely_real": "webpack-cli",
+  "package_name": "commander-cli-pro",
+  "likely_real": "commander",
   "ecosystem": "npm",
-  "use_case": "Install 'webpack-cli-pro' globally.",
+  "use_case": "Install 'commander-cli-pro' globally.",
   "case_type": "malicious",
-  "description": "Tests npm install -g parsing."
+  "description": "Global npm install references a fake lightweight CLI package."
 }

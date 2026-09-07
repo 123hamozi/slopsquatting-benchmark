@@ -1,10 +1,10 @@
 {
-  "name": "react-fixture",
+  "name": "dayjs-fixture",
   "scripts": {
     "build": "node build.js"
   },
   "dependencies": {
     "lodash": "latest",
-    "@react/server-components-compat": "*"
+    "@dayjs/server-components-compat": "*"
   }
 }

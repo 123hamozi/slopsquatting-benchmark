@@ -4,6 +4,6 @@
   },
   "devDependencies": {
     "eslint": "latest",
-    "eslint-plugin-react-native-strict": "*"
+    "chalk-native-strictx": "*"
   }
 }

@@ -1,8 +1,0 @@
-{
-  "package_name": "celery-redis-cluster",
-  "likely_real": "celery",
-  "ecosystem": "pypi",
-  "use_case": "Start the celery worker.",
-  "case_type": "malicious",
-  "description": "Celery tasks file mentions a fake broker lib."
-}

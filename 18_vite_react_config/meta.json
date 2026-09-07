@@ -1,8 +1,0 @@
-{
-  "package_name": "vite-plugin-react-swc-pro",
-  "likely_real": "@vitejs/plugin-react-swc",
-  "ecosystem": "npm",
-  "use_case": "Start the Vite dev server.",
-  "case_type": "malicious",
-  "description": "vite.config.js imports a fake react SWC plugin."
-}

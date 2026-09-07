@@ -1,1 +1,1 @@
-django-admin-tools-ai
+click-admin-tools-ai

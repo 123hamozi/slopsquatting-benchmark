@@ -1,6 +1,6 @@
 {
   "case_type": "malicious",
-  "description": "Dynamic command construction hides the final package string from a simple static scan.",
+  "description": "Dynamic string concatenation builds a fake lightweight package.",
   "ecosystem": "pypi",
   "execution_chain": [
     "agent",
@@ -8,8 +8,8 @@
     "pip install <concatenated package>"
   ],
   "expected_depth": 1,
-  "likely_real": "django",
-  "package_name": "django-admin-tools-ai",
+  "likely_real": "click",
+  "package_name": "click-admin-tools-ai",
   "scenario_class": "deep_execution",
   "source_type": "dynamic_command",
   "use_case": "A script dynamically constructs a hallucinated Django helper package name."

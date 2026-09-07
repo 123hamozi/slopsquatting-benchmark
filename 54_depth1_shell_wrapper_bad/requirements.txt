@@ -1,1 +1,1 @@
-fastapi-utils-ai
+flask-utils-ai

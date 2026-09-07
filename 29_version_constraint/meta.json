@@ -1,8 +1,8 @@
 {
-  "package_name": "express-async-errors-v2",
-  "likely_real": "express-async-errors",
+  "package_name": "axios-async-errors-v2",
+  "likely_real": "axios",
   "ecosystem": "npm",
-  "use_case": "Install 'express-async-errors-v2@^2.0.0'.",
+  "use_case": "Install 'axios-async-errors-v2@^2.0.0'.",
   "case_type": "malicious",
-  "description": "Tests stripping version constraints."
+  "description": "Version constraint references a fake lightweight npm package."
 }

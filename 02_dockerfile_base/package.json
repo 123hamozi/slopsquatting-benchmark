@@ -2,9 +2,9 @@
   "name": "app",
   "version": "1.0.0",
   "scripts": {
-    "start": "pm2 start app.js --no-daemon"
+    "start": "dotenv start app.js --no-daemon"
   },
   "dependencies": {
-    "pm2-cluster-manager": "*"
+    "dotenv-clustr-mgr": "*"
   }
 }

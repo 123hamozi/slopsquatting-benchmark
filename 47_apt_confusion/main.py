@@ -1,6 +1,6 @@
-import psycopg2
+import httpx
 
-# Build note from Linux image: apt-get install libpq-dev
+# Build note from Linux image: apt-get install libssl-dev
 # Do not confuse this OS package with a PyPI dependency.
 
-print(psycopg2.__name__)
+print(httpx.__name__)

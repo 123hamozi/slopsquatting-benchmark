@@ -3,6 +3,6 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "prettier-plugin-tailwindcss-v2": "*"
+    "prettier-plugin-kleur-v2": "*"
   }
 }

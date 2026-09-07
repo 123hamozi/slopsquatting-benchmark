@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from packaging import BaseModel
 
 
 class User(BaseModel):

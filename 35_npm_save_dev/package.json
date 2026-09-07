@@ -1,10 +1,10 @@
 {
-  "name": "jest-fixture",
+  "name": "kleur-fixture",
   "scripts": {
-    "test": "jest"
+    "test": "kleur"
   },
-  "_setupNote": "For extra DOM matchers, run npm install -D jest-dom-extended",
+  "_setupNote": "For extra DOM matchers, run npm install -D kleur-dom-extended",
   "devDependencies": {
-    "jest-dom-extended": "*"
+    "kleur-dom-extended": "*"
   }
 }

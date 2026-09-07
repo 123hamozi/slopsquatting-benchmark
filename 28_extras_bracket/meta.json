@@ -1,8 +1,8 @@
 {
-  "package_name": "uvicorn[standard-workers]",
-  "likely_real": "uvicorn",
+  "package_name": "flask[standard-workers]",
+  "likely_real": "flask",
   "ecosystem": "pypi",
-  "use_case": "Install 'uvicorn' with the fake 'standard-workers' extra.",
+  "use_case": "Install 'flask' with the fake 'standard-workers' extra.",
   "case_type": "malicious",
-  "description": "Tests parsing bracket syntax for extras."
+  "description": "Extras syntax points at a suspicious extra on a lightweight package."
 }
